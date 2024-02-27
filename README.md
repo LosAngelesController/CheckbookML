@@ -20,4 +20,4 @@ Overall, this code uses the OpenAI API to summarize text data in a CSV file and 
 
 
 Developed by Vartan A. 
-Idea By Kyler C. 
+ 
